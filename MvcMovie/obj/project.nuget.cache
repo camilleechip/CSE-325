@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KIzAIHvUulg=",
+  "dgSpecHash": "rHrnmacWIiM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\camil\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\camil\\OneDrive\\Desktop\\CSE-325\\MvcMovie\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\camil\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\camil\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",
@@ -142,9 +142,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\camil\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\camil\\OneDrive\\Desktop\\CSE-325\\MvcMovie\\MvcMovie.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\camil\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "filePath": "C:\\Users\\camil\\OneDrive\\Desktop\\CSE-325\\MvcMovie\\MvcMovie.csproj",
       "libraryId": "NuGet.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -154,9 +154,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
-      "projectPath": "C:\\Users\\camil\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\camil\\OneDrive\\Desktop\\CSE-325\\MvcMovie\\MvcMovie.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\camil\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "filePath": "C:\\Users\\camil\\OneDrive\\Desktop\\CSE-325\\MvcMovie\\MvcMovie.csproj",
       "libraryId": "NuGet.Protocol",
       "targetGraphs": [
         "net10.0"
